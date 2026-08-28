@@ -1,0 +1,7 @@
+# Compiled binary
+filesystem
+*.o
+*.out
+
+# Local Claude Code settings
+.claude/settings.local.json
